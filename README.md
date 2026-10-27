@@ -3,6 +3,21 @@
 A native Swift app for Apple Silicon Macs running macOS 14 or later, with
 local AI conversations, speech and a red LED voice panel.
 
+## Screenshots
+
+### Compact voice box
+
+The compact panel keeps the animated voice LEDs and dashboard controls visible.
+
+<img src="docs/screenshots/voice-box.png" alt="KITT compact voice box with three red LED stacks and dashboard controls" width="384">
+
+### Full conversation interface
+
+The full interface adds the conversation, message entry, voice selection and
+speech controls. The screenshot shows an example conversation.
+
+![KITT full interface showing a demo conversation, the LED voice box and speech controls](docs/screenshots/full-interface.png)
+
 ## Install from source
 
 1. Clone or download this repository.

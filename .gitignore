@@ -1,0 +1,12 @@
+.DS_Store
+._*
+*.app/
+VoiceEngine/.venv/
+VoiceEngine/models/
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+*.wav
+*.aiff

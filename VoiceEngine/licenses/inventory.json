@@ -1,0 +1,258 @@
+[
+  {
+    "component": "phonemizer",
+    "version": "3.4.0",
+    "file": "VoiceEngine/licenses/phonemizer/LICENSE",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "cloudpickle",
+    "version": "3.1.2",
+    "file": "VoiceEngine/licenses/cloudpickle/LICENSE",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "onnxruntime",
+    "version": "1.31.0",
+    "file": "VoiceEngine/licenses/onnxruntime/onnxruntime/LICENSE",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "onnxruntime",
+    "version": "1.31.0",
+    "file": "VoiceEngine/licenses/onnxruntime/onnxruntime/ThirdPartyNotices.txt",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "packaging",
+    "version": "26.3",
+    "file": "VoiceEngine/licenses/packaging/LICENSE",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "packaging",
+    "version": "26.3",
+    "file": "VoiceEngine/licenses/packaging/LICENSE.APACHE",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "packaging",
+    "version": "26.3",
+    "file": "VoiceEngine/licenses/packaging/LICENSE.BSD",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "joblib",
+    "version": "1.6.0",
+    "file": "VoiceEngine/licenses/joblib/LICENSE.txt",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "protobuf",
+    "version": "7.36.2",
+    "file": "VoiceEngine/licenses/protobuf/protobuf-7.36.2.dist-info/LICENSE",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "kokoro-onnx",
+    "version": "0.6.1",
+    "file": "VoiceEngine/licenses/kokoro-onnx/LICENSE",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/LICENSE.txt",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/_core/src/common/pythoncapi-compat/COPYING",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/_core/src/highway/LICENSE",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/_core/src/umath/svml/LICENSE",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/fft/pocketfft/LICENSE.md",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/linalg/lapack_lite/LICENSE.txt",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/ma/LICENSE",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/random/LICENSE.md",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/random/src/distributions/LICENSE.md",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/random/src/mt19937/LICENSE.md",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/random/src/pcg64/LICENSE.md",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/random/src/philox/LICENSE.md",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/random/src/sfc64/LICENSE.md",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/random/src/splitmix64/LICENSE.md",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/_core/include/numpy/random/LICENSE.txt",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/ma/LICENSE",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "numpy",
+    "version": "2.5.4",
+    "file": "VoiceEngine/licenses/numpy/numpy/random/LICENSE.md",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "pycparser",
+    "version": "3.12",
+    "file": "VoiceEngine/licenses/pycparser/LICENSE",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "cffi",
+    "version": "2.1.1",
+    "file": "VoiceEngine/licenses/cffi/LICENSE",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "soundfile",
+    "version": "0.13.1",
+    "file": "VoiceEngine/licenses/soundfile/_soundfile_data/COPYING",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "soundfile",
+    "version": "0.13.1",
+    "file": "VoiceEngine/licenses/soundfile/soundfile-0.13.1.dist-info/LICENSE",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "attrs",
+    "version": "26.1.0",
+    "file": "VoiceEngine/licenses/attrs/LICENSE",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "typing_extensions",
+    "version": "4.16.0",
+    "file": "VoiceEngine/licenses/typing_extensions/LICENSE",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "dlinfo",
+    "version": "2.0.0",
+    "file": "VoiceEngine/licenses/dlinfo/dlinfo-2.0.0.dist-info/LICENSE",
+    "origin": "Licence/notice file from the locally installed matching distribution."
+  },
+  {
+    "component": "espeakng-loader",
+    "file": "VoiceEngine/licenses/espeakng-loader/UPSTREAM-LICENSE.txt",
+    "origin": "https://github.com/thewh1teagle/espeakng-loader/blob/main/LICENSE",
+    "upstream_blob_sha": "e9f09c0360f9bdaf4f3ea4d3bb30af71d949a701"
+  },
+  {
+    "component": "espeak-ng",
+    "file": "VoiceEngine/licenses/espeak-ng/LICENSE.txt",
+    "origin": "https://github.com/espeak-ng/espeak-ng/blob/master/COPYING",
+    "upstream_blob_sha": "94a9ed024d3859793618152ea559a168bbcbb5e2"
+  },
+  {
+    "component": "ollama",
+    "file": "VoiceEngine/licenses/ollama/LICENSE.txt",
+    "origin": "https://github.com/ollama/ollama/blob/main/LICENSE",
+    "upstream_blob_sha": "8e3dc978a7ca8c53f56bbedc5b558116140fc02e"
+  },
+  {
+    "component": "libsndfile",
+    "file": "VoiceEngine/licenses/libsndfile/LICENSE.txt",
+    "origin": "https://github.com/libsndfile/libsndfile/blob/master/COPYING",
+    "upstream_blob_sha": "c396169eea80f1b63a8029b12a61cee06154761e"
+  },
+  {
+    "component": "llama-3.2",
+    "file": "VoiceEngine/licenses/llama-3.2/LICENSE.txt",
+    "origin": "https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/LICENSE"
+  },
+  {
+    "component": "flatbuffers",
+    "file": "VoiceEngine/licenses/flatbuffers/LICENSE.txt",
+    "origin": "https://github.com/google/flatbuffers/blob/master/LICENSE"
+  }
+]

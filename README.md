@@ -3,6 +3,8 @@
 A native Swift app for Apple Silicon Macs running macOS 14 or later, with
 local AI conversations, speech and a red LED voice panel.
 
+Local chat: **Built with Llama** — Meta Llama 3.2, downloaded separately through Ollama.
+
 ## Screenshots
 
 ### Compact voice box
@@ -92,3 +94,5 @@ Create the optional local voice environment on each Mac using `setup-voices.comm
 ## Credits
 
 Unofficial personal fan project, not affiliated with Knight Rider, its rights holders, or Fish Audio. Kokoro is an independent open model. See `VoiceEngine/NOTICE.md` for sources and licenses. Classic short phrases were checked against scripts in the [Knight Rider Archives](https://www.knightriderarchives.com/knight_rider/season_two/a_knight_in_shining_armor/scripts/1/), [Trust Doesn't Rust](https://knightriderarchives.com/knight_rider/season_one/trust_doesnt_rust/scripts/9/), and [Goliath Returns](https://www.knightriderarchives.com/knight_rider/season_two/goliath_returns/scripts/1/), and the [Mouth of the Snake transcript](https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s02e21&tv-show=knight-rider-1982).
+
+Full creator, software, model, reference and licence acknowledgements: [CREDITS.md](CREDITS.md), [NOTICE](NOTICE) and [voice dependency notices](VoiceEngine/licenses/README.md).

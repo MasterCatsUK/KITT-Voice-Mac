@@ -1,0 +1,18 @@
+KITT Voice for Mac — third-party acknowledgements
+
+Built with Llama.
+
+Llama 3.2 is licensed under the Llama 3.2 Community License,
+Copyright © Meta Platforms, Inc. All Rights Reserved.
+
+The recommended Llama model is downloaded separately through Ollama. Its
+licence is preserved for reference in VoiceEngine/licenses/llama-3.2/LICENSE.txt.
+
+Kokoro-82M: hexgrad and contributors, Apache License 2.0.
+kokoro-onnx: copyright (c) 2025 github.com/thewh1teagle, MIT License.
+Ollama: copyright (c) Ollama, MIT License.
+
+Optional voice dependencies retain their own notices under VoiceEngine/licenses.
+See CREDITS.md for creator links, model and dataset acknowledgements, native
+dependencies, character inspiration and documentation references. These
+third-party notices do not select or change the licence of the native app code.
